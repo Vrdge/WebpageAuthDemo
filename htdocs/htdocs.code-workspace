@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "htdocs",
+			"path": "."
+		},
+		{
+			"name": "project",
+			"path": "../../Users/Lenovo/Desktop/project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "htdocs"
+	}
+}
